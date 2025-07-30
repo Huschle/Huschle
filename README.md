@@ -18,7 +18,7 @@
 ### 👨🏻‍💻 &nbsp;About me
 🎓 &nbsp;Computer Science & AI student at EPITA.\
 💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
-✍️ &nbsp;In my free time, I play video games and try to work on personnal project.
+✍️ &nbsp;In my free time, I play video games and try to work on personnal projects.
 
 ### ✨ &nbsp;Latest projects
 🧠 &nbsp;**[TinyX](https://github.com/Huschle/TinyX)** - Create a blog platform like X. **(Java / Angular)**\
