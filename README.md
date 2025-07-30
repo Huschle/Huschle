@@ -27,7 +27,7 @@
 ### 🎯 &nbsp;Featured projects
 🚁 &nbsp;**[InStockNow](https://github.com/Huschle/Projet-Data-Engineering-InStockNow)** - Real-time system that looks at a store’s inventory using sensors **(Scala)**\
 📊 &nbsp;**[Python for Big Data](https://github.com/Huschle/Projet-Big-Data)** - Large-scale stock data processing and visualization **(Pandas, Plotly, Dash)**\
-📝 &nbsp;**[Music Classification and Generation](https://github.com/Huschle/NLP-Music-Generator)** - NLP project for music analysis and creation **(Python Notebooks)**\
+📝 &nbsp;**[Music Classification and Generation](https://github.com/Huschle/NLP-Music-Generator)** - NLP project for music analysis and creation **(Python)**\
 🤖 &nbsp;**[Kaggle Competition Boat](https://github.com/Huschle/Kaggle-Competition-Boat)** - Computer vision project : create a CNN to detect boat types **(Python Notebooks)**
 
 ---
