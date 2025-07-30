@@ -15,13 +15,20 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **Private Personal Projects**  
-- 🌱 I’m currently learning **Deep learning, Machine learning and Computer Vision**  
-- 💬 Ask me about **AI or Python**  
-- 📫 How to reach me **discord : akhidesbois**  
-- ⚡ **Fun fact:** I code while listening to **phonk 🔊** <img src="https://media.tenor.com/WhcLUC9yiTEAAAAM/nicole-lacsamana-nicole-bleh.gif" width="30">
+### 👨🏻‍💻 &nbsp;About me
+🎓 &nbsp;Computer Science & AI student at EPITA.\
+💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
+✍️ &nbsp;In my free time, I play video games and try to work on personnal project.
 
+### ✨ &nbsp;Latest projects
+🧠 &nbsp;**[TinyX](https://github.com/Huschle/TinyX)** - Create a blog platform like X. **(Java / Angular)**\
+🎞️ &nbsp;**[ML Project](https://github.com/qghrjf646/ftml_2025)** - Machine learning project: supervised and unsupervised training on film and Spotify datasets **(Python notebooks)**
+
+### 🎯 &nbsp;Featured projects
+🚁 &nbsp;**[InStockNow](https://github.com/Huschle/Projet-Data-Engineering-InStockNow)** - Real-time system that looks at a store’s inventory using sensors **(Scala)**\
+📊 &nbsp;**[Python for Big Data](https://github.com/Huschle/Projet-Big-Data)** - Large-scale stock data processing and visualization **(Pandas, Plotly, Dash)**\
+📝 &nbsp;**[Music Classification and Generation](https://github.com/Huschle/NLP-Music-Generator)** - NLP project for music analysis and creation **(Python Notebooks)**\
+🤖 &nbsp;**[Kaggle Competition Boat](https://github.com/Huschle/Kaggle-Competition-Boat)** - Computer vision project : create a CNN to detect boat types **(Python Notebooks)**
 
 ---
 
