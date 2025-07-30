@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://i.ibb.co/QP2ZCzs/github-header-image.png" alt="banner" />
+  <img src="https://images.steamusercontent.com/ugc/2050866941415296678/7943A9FEAE07A0E59E642EF1B71783112263D672/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="banner" />
 </p>
 
 <h1 align="center">
@@ -20,7 +20,8 @@
 - 🌱 I’m currently learning **Deep learning, Machine learning and Computer Vision**  
 - 💬 Ask me about **AI or Python**  
 - 📫 How to reach me **discord : akhidesbois**  
-- ⚡ **Fun fact:** I code while listening to **phonk 🔊** <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="30">  
+- ⚡ **Fun fact:** I code while listening to **phonk 🔊** <img src="https://media.tenor.com/WhcLUC9yiTEAAAAM/nicole-lacsamana-nicole-bleh.gif" width="30">
+
 
 ---
 
