@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huschle" alt="huschle" /></a> </p>
 
-- 🔭 I’m currently working on **XXX**
+- 🔭 I’m currently working on **Aiba's Project**
 
 - 🌱 I’m currently learning **Deep learning, Machine learning and Computer Vision**
 
-- 👯 I’m looking to collaborate on **XXX**
-
-- 🤝 I’m looking for help with **XXX**
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **AI or Python**
 
 - 📫 How to reach me **discord : akhidesbois**
 
-- ⚡ Fun fact **XXX**
+- ⚡ Fun fact: **I code while listening to phonk 🔊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
