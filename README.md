@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Aiba's Project**  
+- 🔭 I’m currently working on **Private Personal Projects**  
 - 🌱 I’m currently learning **Deep learning, Machine learning and Computer Vision**  
 - 💬 Ask me about **AI or Python**  
 - 📫 How to reach me **discord : akhidesbois**  
